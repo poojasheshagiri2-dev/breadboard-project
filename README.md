@@ -1,2 +1,1 @@
-# breadboard-project
-related to sensors and actuators
+Testing connection pool config update
